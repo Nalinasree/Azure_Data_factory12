@@ -1,0 +1,9 @@
+{
+	"name": "nycsimple",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c8c8f3da-65a5-454d-b1ce-c343c9cc8a18",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
